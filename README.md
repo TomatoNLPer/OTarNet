@@ -44,14 +44,3 @@ sh run_multimodal_classifier_test.sh
 ```
 
 
-## Implemented models
-
-### BERT and BERT+BL ([run_classifier.py](./run_classifier.py))
-- You can run the following code to perform training and testing.
-
-```sh
-sh run_classifier.sh
-```
-
-### OTarNet, TomBERT, mBERT, Res-BERT ([run_multimodal_classifier.py](./run_multimodal_classifier.py))
-- You can choose different models in the "run_multimodal_classifier.sh" file.
